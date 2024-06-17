@@ -81,7 +81,8 @@
 background-position: top;}
   .content{
     justify-content: center;
-    top: 15%;
+    overflow: hidden;
+    top: 14%;
     left: 0;
     right: 0;
     text-align: center;
