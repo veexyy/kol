@@ -77,7 +77,8 @@
     padding: 12px;
   }
   .background {background-image: url('../public/mobile.jpg');
-  background-size: cover;}
+  background-size: cover;
+background-position: top;}
   .content{
     justify-content: center;
     top: 15%;
